@@ -1,2 +1,3 @@
 # ROBT403
-The respository made for ROBT 403 course labs
+The respository made for ROBT 403 course lab 2
+It will include talker.py and listener.py codes with the report
